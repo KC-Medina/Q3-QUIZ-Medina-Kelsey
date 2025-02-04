@@ -1,0 +1,22 @@
+body {
+    background-color: #009990;
+    text-align: center;
+    padding: 20px;
+    color:#134B70;
+}
+
+.container {
+    max-width: 600px;
+    background:#9ACBD0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:10px 
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.btn {
+    margin: 5px;
+}
